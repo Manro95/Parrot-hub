@@ -17,5 +17,9 @@ const Parrots = [ {
     avoid: ["Avocado", "Chocolate", "Caffeine", "Alcohol", "Onions", "Garlic"],
     habitat: "Native to the rainforests of West and Central Africa, they are often found in dense forests and savannas.",
     description: "The African Grey Parrot is renowned for its exceptional intelligence and ability to mimic human speech. They have a striking grey plumage with a bright red tail. These parrots are highly social and require a lot of mental stimulation, making them ideal companions for experienced bird owners who can provide them with the attention they need."
+  },
+  {
+    id: 3,
+    name: "Blue Macaw"
   }
 ]
